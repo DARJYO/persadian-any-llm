@@ -1,5 +1,5 @@
 
-[![(./public/social_preview_index.jpg)]
+<img src="https://github.com/DARJYO/persadian-llm/blob/main/public/social_preview_index.jpg" height="100%" width="100%">    
 
 Choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
 
@@ -139,12 +139,12 @@ This method is recommended for developers who want to:
 1. **Clone the Repository**:
    ```bash
    # Using HTTPS
-   git clone https://github.com/stackblitz-labs/bolt.diy.git
+   git clone https://github.com/.../...git
    ```
 
 2. **Navigate to Project Directory**:
    ```bash
-   cd bolt.diy
+   cd ...
    ```
 
 3. **Switch to the Main Branch**:
