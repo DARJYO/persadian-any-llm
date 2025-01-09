@@ -15,7 +15,7 @@ Choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anth
 
 ## Setup 
 
-If you're new to installing software from GitHub, don't worry! If you encounter any issues, feel free to submit an "issue" using the provided links or improve this documentation by forking the repository, editing the instructions, and submitting a pull request. The following instruction will help you get the stable branch up and running on your local machine in no time.  
+If you're new to installing software from GitHub, don't worry! The following instruction will help you get the stable branch up and running on your local machine in no time.  
 
 ## Prerequisites
 
@@ -95,7 +95,7 @@ This option requires some familiarity with Docker but provides a more isolated e
 
 ### Adding Your API Keys
 
-Setting up your API keys in Bolt.DIY is straightforward:
+Setting up your API keys is straightforward:
 
 1. Open the home page (main interface)
 2. Select your desired provider from the dropdown menu
