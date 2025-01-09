@@ -224,7 +224,3 @@ Remember to always commit your local changes or stash them before pulling update
 - **`pnpm run lint:fix`**: Automatically fixes linting issues.
 
 ---
-
-## FAQ
-
-For answers to common questions, issues, and to see a list of recommended models, visit our [FAQ Page](FAQ.md).
