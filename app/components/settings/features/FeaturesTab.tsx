@@ -1,4 +1,4 @@
-import React from 'react';
+-llmimport React from 'react';
 import { Switch } from '~/components/ui/Switch';
 import { PromptLibrary } from '~/lib/common/prompt-library';
 import { useSettings } from '~/lib/hooks/useSettings';
@@ -47,7 +47,7 @@ export default function FeaturesTab() {
             <div>
               <span className="text-bolt-elements-textPrimary">Auto Select Code Template</span>
               <p className="text-xs text-bolt-elements-textTertiary">
-                Let Bolt select the best starter template for your project.
+                Let persadian-llm select the best starter template for your project.
               </p>
             </div>
             <Switch className="ml-auto" checked={autoSelectTemplate} onCheckedChange={setAutoSelectTemplate} />
