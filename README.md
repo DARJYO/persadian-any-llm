@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/28c81c98-7c2e-4103-b352-67fc0c8fb089
+
 <img src="https://github.com/DARJYO/persadian-llm/blob/main/public/social_preview_index.jpg" height="100%" width="100%">    
 
 Choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
